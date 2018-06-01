@@ -8,7 +8,7 @@ category: ''
 tags:
 - football
 - soccer
-twitter_text: "The Football Youth Festival by Krishna Mohan"
+twitter_text: "The Football Youth Festival"
 introduction: Football, the beautiful game as it is fondly called is bringing its youth-festival to our country. What else we need? 
 ---
 

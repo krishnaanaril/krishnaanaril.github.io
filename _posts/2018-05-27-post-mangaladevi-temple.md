@@ -1,0 +1,51 @@
+---
+layout: post
+title: "A beautiful morning at Mangaladevi temple"
+date: 2018-05-27 11:17:37
+image: '/assets/img/20180430_074929.jpg'
+description: A journey to the abode of goddess Mangala devi
+category: ''
+tags:
+- Travel 
+twitter_text: "A beautiful morning at Mangaladevi temple"
+introduction: The view of jeeps ascending the hill like a big large snake was breath taking. The little fog was doing its part in adding the beauty of the scenaries.
+---
+
+It was a special day, I was at Ithithanam Elamkave devi temple watching the evening procession accompanied by an illustrious panchari melam Orchestra. Our goddess was sitting pretty on top of ‘Puthuppally Kesavan’, with ‘Pampady Rajan’ and ‘Sivaraju’ on his left and right respectively. 
+
+“Mangaladevi temple in Kumali opens on April 30th we are planning to go. Are you interested” that was message from Ajit. I read it and kept the phone in my pocket and i was not in a mood to think of anything else as it was a magical night which we get only once in a year. I was enjoying the majestic view of fifteen pachyderms swinging their ears in accordance with the progressing music. 
+
+Next day we had a detailed discussion and finalised the plan. We were four, Ajith, Praveen and me from Ernakulam with Hari joining from Thekkady. We booked two rooms via Oyo and it was very cheap compared to the normal rates. 
+
+We started at around 7am in the morning, and picked Praveen from Thrippunithura. The journey was not much eventful and we were talking some random stuffs (read as football) during the journey. We had our breakfast from a restaurant in Pala and it was okay. Our next stop was at Pattumala where we saw the rope-way. The moment we got down from the car, a guy approached us and asked Praveen. “Are you the film guys?”, there was a pin-drop silence for a moment before we said No to him and once he left we burst into laughter. Can’t blame him, Praveen’s shorts and shades might have confused him. It’s proclaim that it is the longest rope-way in Kerala, but we didn’t try it as it was very expensive. But we visited the Church next opposite to it and it as really nice one with two identical pine trees on both sides of the stairs. There was nothing special about its architecture, but it was very calm and serene inside it. We had a cup of tea from the near by teashop which is run by a tamil speaking couple.
+
+![Pattumalai Church](/assets/img/MT00.jpeg)*Pattumalai Church*{:class="img-responsive"}
+
+Within an hour drive from Pattumala we reached Thekkadi and our Oyo rooms were in the town itself. The lodge was too creepy as it was behind  a jewelery shop and there was only a narrow corridor to walk from the road to the reception. The main problem was there isn’t enough space to park the car. We found two hindi speaking guys in the reception. Ther were really helpful, but their request to pay the full amount was a bit difficult to digest. Then there comes the owner look-a-like with a Macbook pro and convinced us that we need to pay full amount in advance for Oyo rooms (really?). We were not in a mood to argue so we paid in full and we got two rooms in the top floor. It was as depicted in the pictures and clean so we were fine with that. 
+
+Once we settled with our luggages and freshened up we went to have lunch at the nearby restaurant named ‘Hotel Sandra’. It was posh looking with expensive meals, but fine. After that we took a little nap in the room before proceeding to view the thekkadi lake. It was just a walkable distance from our staying place, but being unaware of it we took the car and ended up paying Rs.80 as parking fees. We took three cyles for rent from the entrance gate instead of taking the bus pass. We had to pay another Rs.40 as entry fees, and Rs.20 per cycle. The guy at the cycle rental was reluctant ot give us the cycles as he want to wind up at 5pm and it was almost 4pm then. We convinced him that we’ll reach before 5pm. The more difficult thing was to find a good cycle without flat tyres and with brakes. After 5 minutes of searching we’ve aced that as well.
+
+I’ve been riding cycle after a long time and it was a bit difficult to start and later it was comfortable. It was approximate 2km ride from entry point to the lake view. There were lot of monkeys near the lake and we were bit scared about them as the guards have warned that sometimes they may attack. We didn’t seem any other wild animals near the lake and the water level in the lake as too low as it was summer.  Boating entry usually closes before noon, so we couldn’t try that. After spending few minutes there we returned to the entry point and returned our cycles. 
+
+We were too tired when we reached the room and in few minutes Hari joined our company. 
+Around 7pm we started from hotel room to have dinner and inquire about the trip to temple. We’ve heard that there will be taxi jeeps that shuttle between thekkadi and temple for Rs.100 per person. When we reached the ticket distribution center we found that people where already started to stand in queue for tomorrow. Since it was very difficult to get ticket in the morning we thought of  hiring a special taxi for the hill top. We bargained with two of the drivers and settled for Rs.1500 for four of us. We gave him Rs.200 as advance. He assured that he’ll pick us up from our hotel at 5:30 am in the morning. The regulations are very strict that only approved vehicles can enter the restricted forest area and carry passengers, which is good by the way. The tickets for taxis were distributed 2 days prior and our driver told us that there were more than 1000 passess issued for taxis. We noted his vehicle number for saftey, thought we know that it is not much significant. Phew we’ve done one of the major task and we went to have dinner. Hari and co was not satisified with the cleanliess of two-three hotels we entered and finaly we found a hotel which was okay from outside. But there were only few dishes available and we had no other options. Once reached the room me and Hari talked a bit and slept. 
+
+We woke up at 4am and quickly completed our morning chores and went down to call the driver. When we reached there we could see the jeep in front of our hotel and driver sleeping inside it. It was bit freezing, only god knows how he managed that. Since he was sleeping and there were more than 10 minutes for 5:30 we thought of having a coffee. While we were discussing about having coffee, one coffee came out of nowhere with a big coffee kettle in his moped. We bought coffee from him and had some chat regarding the history of the temple and about the travel. He was very helpful and very informative. By 5:30 am our driver woke up and we started our journey. 
+
+![Offroad drive in the misty morning](/assets/img/MT01.jpeg)*Offroad drive in the misty morning*{:class="img-responsive"}
+
+First he took us to the taxi stand where the forest officials issues approvals for each trip, we waited there for about 10 minutes. Finally we got the approval and we reached the forest entry gate. There was huge queue of jeeps filled with devotees. In the mean time we got a surprise co-passenger. An acquaintance of driver asked him for a lift and the driver in turn asked us for permission. Since there were place for another in the jeep we agreed. This new guy has got a motormouth and he happens to be the mechanic of our jeep. At 6am forest officials opened the gates and we entered the forest area. After we traveled a kilometer there were security check point where the check our body and bags to make sure illegal items are not with us. 
+
+![Narrow roads and bumpy rides](/assets/img/MT02.jpeg)*Narrow roads and bumpy rides*{:class="img-responsive"}
+
+It was my first pure off road trip, and journey was damn sick. The view of jeeps ascending the hill like a big large snake was breath taking. The little fog was doing its part in adding the beauty of the scenaries. It was around 14km from forest entry point to  mangaladevi temple, which is inside the dense(?) forest. Our mechanic guy was talking through out the journey and we were almost fed up with him. When we were at the final third of the journey we could see the Tamil people climbing from the other side of the hill. This place is in between Tamilnadu and Kerala and devotees come from both sides. The actual ownership of the temple is in dispute between Kannaki Trust, Tamilnadu and Travancore devasom Board of kerala. We reached the temple by 7 am and we were the first batch of devotees. The crowd was less when we reached and started increasing. In the next 30 minutes we completed our darshan. There were three temples at the top, two amman temples and one siva temple. Kannaki trust is taking care of one amman temple and TDB the other. There were some VIPs of Kannaki trust and TDB there and they got the special darshan. These temples actually looks like a pile of rocks but we could see the sculptures and artwork in between which reminds us of its glorious past. 
+
+Kannaki trust was distributing tomato rice for the devotees and we got one plate as well. It was so delicious. We hired another jeep for the return journey and we got one that is less crowded. By that time, the inflow of people increased and the roads were full of dust and the congested road becomes the real bottle neck and caused a lot blocks. We reached thekkadi in another 45 mins.
+
+![Me in meditating pose](/assets/img/MT04.jpeg)*Me in meditating pose*{:class="img-responsive"}
+
+We got freshen up in the room and did the checkout. Once we had the lunch we started our return journey to ernakulam. On the way back we stopped at pine forest in Kuttikanam. It was too steepy and pine leaves make them slippery as well. We spend some time there and started for panchali medu. It was another beautiful place. We roamed there for some time and by 4pm we started from there as well. I got down at Kaduthuruthy as I was going to native and bid adieu to Ajith and Praveen. 
+
+![Panchali Medu - Praveen,me (L to R)](/assets/img/MT05.jpeg)*Panchali Medu - Praveen,me (L to R)*{:class="img-responsive"}
+
+Note sure if I'll ever visit the temple again, but that was some unforgettable experience. I had back pain for a week due to rough off-road journey, but the experience was worth the pain.
