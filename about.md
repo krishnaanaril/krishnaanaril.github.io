@@ -5,8 +5,8 @@ description: Some description.
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="http://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_200,w_200/v1504971955/neo_ruqszk.jpg" alt="Your Name">
+<img itemprop="image" class="img-rounded" src="/assets/img/DP.jpg" alt="Krishna Mohan">
 
 ## About
 
-I am a software deveoper with 6+ years of experience.
+Full stack developer on a mission.
