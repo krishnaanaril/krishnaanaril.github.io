@@ -79,13 +79,13 @@ onFailure(error) {
 }  
 ~~~ 
 
-Now we need to add the html code for button. Button will be embedded in the div which we've mentioned in the **renderButton()**
+Now we need to add the html code for button. Button will be embedded in the div which we've mentioned in the **renderButton()**.
 
 ~~~ html
 <div id="googleBtn"></div>
 ~~~
 
-We are almost done with our coding. Now we need to render the button on page load. For that include **OnInit** from **@angular/core** 
+We are almost done with our coding. Now we need to render the button on page load. For that include **OnInit** from **@angular/core**.
 
 ~~~ javascript
 import { Component, OnInit } from '@angular/core';
