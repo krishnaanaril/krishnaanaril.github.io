@@ -1,14 +1,14 @@
 # Site Settings
-title: Krishna Mohans's Blog
+title: Krishna Mohan | Code | Football | Travel
 email: krishnamohan.a.m@live.in
 description: I am yet to figure it out.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "http://krishnaanaril.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-118442837-1"
 
 # User Settings
 username: Krishna Mohan
-user_description: Code | Football | Movies
+user_description: Code | Football | Travel
 # disqus_username: disqus_username
 
 # Social Media
@@ -27,8 +27,8 @@ permalink: /:title/
 
 # Plugins
 plugins:
-  - jemoji
-
+  - jemoji  
+  - jekyll-seo-tag
 # Links to include in menu navigation
 # For external links add external: true
 links:
